@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FragmentTransaction</string>
+    <string name="blue_fragment">Blue fragment</string>
+</resources>

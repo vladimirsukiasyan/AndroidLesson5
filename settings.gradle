@@ -1,0 +1,4 @@
+include ':app:homework'
+include ':app:fragmenttransaction'
+include ':app'
+rootProject.name = "AndroidLesson5"
